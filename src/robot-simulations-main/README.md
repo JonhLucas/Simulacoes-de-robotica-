@@ -1,7 +1,10 @@
 # robot-simulations
 Robot simulations for teaching and research purposes
 
-execute o coppeliaSim a partir do arquivo coppeliaSim.sh/
+### Adicione a arquivo .bashrc
+    source /home/<username>/ros_ws/install/setup.bash
+
+execute o coppeliaSim a partir do arquivo coppeliaSim.sh 
 ### Depedências
  - pip install transforms3d
  - sudo apt-get install ros-<ros_distro>-tf-transformations
