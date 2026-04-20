@@ -1,7 +1,7 @@
 # robot-simulations
 Robot simulations for teaching and research purposes
 
-### Adicione a arquivo .bashrc
+### Adicione ao arquivo .bashrc
     source /home/<username>/ros_ws/install/setup.bash
 
 execute o coppeliaSim a partir do arquivo coppeliaSim.sh 
